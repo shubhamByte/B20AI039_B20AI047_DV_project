@@ -446,7 +446,7 @@ label_dict = {'year':'Year', 'gdp_per_capita ($)': 'GDP per capita ($)', 'HDI fo
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
+server = app.server
 app.layout = html.Div(
     [
         html.Div(
@@ -708,7 +708,7 @@ app.layout = html.Div(
         html.Div(
             [
                 html.H5('Created by Shubham & Tanmay'),
-                html.A('GitHub', href='https://github.com/yourusername/your-repository')
+                html.A('GitHub', href='https://github.com/shubhamByte/B20AI039_B20AI047_DV_project')
             ],
             style={
                 'background-color': '#E8E8E8',
