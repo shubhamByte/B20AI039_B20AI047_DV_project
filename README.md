@@ -38,7 +38,7 @@ This is readme file for how to run the project on local computer.
 The dashboard is deployed at following link.
 
 ```bash
-  www.abc.com
+  https://dashboard-suicide-analysis-dv.onrender.com/
 ```
 
 
