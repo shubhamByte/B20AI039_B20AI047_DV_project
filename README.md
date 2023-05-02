@@ -47,3 +47,11 @@ The dashboard is deployed at following link.
 - Tanmay (B20AI047)
 - Shubham Kumar (B20AI039)
 
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/89643798/235620026-38a971f0-11c0-4bcf-b472-b36dd6a497bd.png)
+
+
+![image](https://user-images.githubusercontent.com/89643798/235620152-18dcff15-cb09-475d-a8f5-e8e2148f6750.png)
+
+
